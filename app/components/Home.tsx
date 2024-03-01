@@ -7,7 +7,7 @@ import PopularBurger from './PopularBurger/PopularBurger';
 import Delivery from './Delivery/Delivery';
 import Team from './Team/Team';
 import Reservation from './Reservation/Reservation';
-import Newsletter from './Newsletter.tsx/Newsletter';
+import Newsletter from './Newsletter/Newsletter';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
